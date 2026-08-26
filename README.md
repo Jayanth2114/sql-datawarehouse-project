@@ -8,39 +8,39 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
 <img width="767" height="343" alt="Warehouse Architecture drawio" src="https://github.com/user-attachments/assets/0b4e9baa-9943-4620-89a2-18475e93b708" />
 
-*Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+-Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 
-*Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+-Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 
-*Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+-Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
 📖 Project Overview
 This project involves:
 
-Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+1.Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+2.ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+3.Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+-SQL Development
+-Data Architect
+-Data Engineering
+-ETL Pipeline Developer
+-Data Modeling
+-Data Analytics
 ---
 🛠️ Important Links & Tools:
 Everything is for Free!
 
-Datasets: Access to the project dataset (csv files).
-SQL Server Express: Lightweight server for hosting your SQL database.
-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
-Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-DrawIO: Design data architecture, models, flows, and diagrams.
-Notion: Get the Project Template from Notion
-Notion Project Steps: Access to All Project Phases and Tasks.
+-Datasets: Access to the project dataset (csv files).
+-SQL Server Express: Lightweight server for hosting your SQL database.
+-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
+-Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+-DrawIO: Design data architecture, models, flows, and diagrams.
+-Notion: Get the Project Template from Notion
+-Notion Project Steps: Access to All Project Phases and Tasks.
 ---
 
 ## 🚀 Project Requirements
